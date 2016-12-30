@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+body {}
+
+#daily {
+	font-size: 40px;
+	font-family: 'Trocchi', serif;
+}
+
+div.well {
+	height: 250px;
+}
+
+#quote-well {
+	font-family: Cormorant Garamond;
+	//  font-size:20px;
+}
+
+.social-quote {
+	position: static;
+	margin: 0px 0px 3px 0px;
+	float: left;
+}
+
+.foot-text {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 15px;
+	text-align: center;
+}
+
+a:link {
+	color: green;
+	background-color: transparent;
+	text-decoration: none
+}
+
+a:visited {
+	color: black;
+	background-color: transparent;
+	text-decoration: none
+}
+
+a:hover {
+	color: blue;
+	background-color: transparent;
+	text-decoration: underline
+}
+
+a:active {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: underline
+}
+
+img {
+	border-radius: 8px;
+	position: relative;
+}
+
+#author {
+	margin: 65px;
+}
+
+#quote {
+	font-size: 16px;
+}
