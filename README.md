@@ -1,2 +1,2 @@
 # DailyquoteGEnerator
-https://bitian1506.github.io/Dailyquo…
+https://ashish1500616.github.io/DailyquoteGEnerator/
